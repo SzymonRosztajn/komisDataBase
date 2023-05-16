@@ -1,0 +1,2 @@
+DELETE FROM Klient WHERE telefon = 505023967;
+DELETE * FROM Klient;

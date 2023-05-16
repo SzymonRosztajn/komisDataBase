@@ -1,0 +1,1 @@
+UPDATE Pracownik SET Pensja = 6197 WHERE id = 17;
